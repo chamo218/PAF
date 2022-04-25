@@ -17,7 +17,7 @@
 </servlet>
 <servlet-mapping>
  <servlet-name>Jersey Web Application</servlet-name>
- <url-pattern>/ItemService/*</url-pattern>
+ <url-pattern>/IssueService/*</url-pattern>
 </servlet-mapping>
   
   
